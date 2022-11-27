@@ -1,0 +1,137 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.web {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 24px;
+  color: #4d5ae5;
+}
+
+.studio {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 24px;
+  color: #2e2f42;
+}
+
+.link-menu {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #2e2f42;
+}
+
+.hero {
+  background: #2e2f42;
+}
+
+.solutions {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 56px;
+  line-height: 60px;
+  color: #ffffff;
+}
+
+.button-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}
+
+.button {
+  width: 170px;
+  height: 51px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+}
+
+button:hover {
+  background: #404bbf;
+}
+
+a:hover {
+  color: #4d5ae5;
+}
+
+a:focus {
+  color: #4d5ae5;
+}
+.background-team {
+  background: #f4f4fd;
+}
+
+.feature {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #2e2f42;
+}
+
+.feature-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.title {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 40px;
+  color: #2e2f42;
+}
+
+.team {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.project-card {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #434455;
+}
+
+.footer-text {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #e7e9fc;
+  background: #2e2f42;
+}
