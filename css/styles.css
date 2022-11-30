@@ -31,7 +31,7 @@ body {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.33px;
+  line-height: 1.33;
   color: var(--text-color);
   letter-spacing: 0.03em;
 }
@@ -51,6 +51,23 @@ body {
   color: var(--text-color);
 }
 
+.link-tel,
+.link-mail {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text-color);
+  letter-spacing: 0.02em;
+}
+
+.link-mail:hover {
+  color: var(--primary-brand);
+}
+
+.link-tel:hover {
+  color: var(--primary-brand);
+}
+
 .hero {
   background: var(--text-color);
 }
@@ -58,13 +75,13 @@ body {
 .solutions {
   font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.2;
   color: var(--body-bg-color);
 }
 
 .button-text {
   font-family: "Roboto";
-  font-weight: 600;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.19;
   color: var(--body-bg-color);
@@ -90,6 +107,8 @@ body {
 }
 
 .btn-text {
+  font-family: 'Roboto';
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   color: var(--primary-brand);
